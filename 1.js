@@ -1,5 +1,5 @@
-let audio1 = new Audio("songs/taylor/cruel.mp3");
-let audio2 = new Audio("songs/oasis/Don't.mp3");
+let audio1 = new Audio("taylor/cruel.mp3");
+let audio2 = new Audio("oasis/Don't.mp3");
 
  function play_audio1(){
     audio1.play();
