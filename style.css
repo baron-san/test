@@ -1,0 +1,58 @@
+.lib-font{
+    font-size: 25px;
+    margin-bottom: 20px;
+    
+}
+#btn1{
+    background-image: url(img1.jpg);
+    border-radius: 10px;
+    width: 138px;
+    height: 138px;
+    margin-right: 20px;
+    margin-bottom: 8px;
+}
+#btn1:hover{
+    box-shadow: 10px 10px 15px rgba(255, 249, 249,0.5);
+    transition: box-shadow 0.25s;
+}
+#btn2{
+    background-image: url(65475.jpg);
+    border-radius: 10px;
+    width: 138px;
+    height: 138px;
+    margin-bottom: 8px;
+    margin-right: 20px;
+}
+#btn2:hover{
+    box-shadow: 10px 10px 15px rgba(255, 249, 249,0.5);
+    transition: box-shadow 0.25s;
+}
+#btn3{
+    width: 138px;
+    height: 138px;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    background-image: url(img2.jpg);
+}
+#btn3:hover{
+    box-shadow: 10px 10px 15px rgba(255, 249, 249,0.5);
+    transition: 0.25s;
+}
+
+.k63m6w .aaa{
+    padding-left: 4px;
+    margin-right: 50px;
+    font-size: 15px;
+}
+.k63m6w .bbb{
+    margin-right: 47px;
+    font-size: 15px;
+}
+.k63m6w .ccc{
+    /*margin-right: ;*/
+    font-size: 15px;
+}
+body{
+    background-color: black;
+}
+
