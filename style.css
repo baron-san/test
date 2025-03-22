@@ -39,24 +39,27 @@
     transition: 0.25s;
 }
 
-.k63m6w .aaa{
+.aaa{
     padding-left: 4px;
     margin-right: 50px;
     font-size: 15px;
 }
-.k63m6w .bbb{
+.bbb{
     margin-right: 47px;
-    font-size: 15px;
+    font-size: 10px;
 }
-.k63m6w .ccc{
+.ccc{
     /*margin-right: ;*/
-    font-size: 15px;
+    font-size: 10px;
 }
 body{
     background-color: black;
 }
 
-.buttons{
-    display: flex;
+buttons{
+    display:flex;
 }
 
+.k63m6w span{
+    text-align: center;
+}
